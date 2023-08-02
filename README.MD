@@ -6,7 +6,9 @@
 配置你的chat_id 到config.ini中
 
 ## 安装及使用
+``` bash
 git clone
 cd send-ip-to-telegram-bot
 pip install python-telegram-bot
 python main.py
+```
