@@ -7,7 +7,7 @@
 
 ## 安装及使用
 ``` bash
-git clone
+git clone https://github.com/haokaiyang/send-ip-to-telegram-bot.git
 cd send-ip-to-telegram-bot
 pip install python-telegram-bot
 python main.py
